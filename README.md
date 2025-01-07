@@ -1,5 +1,5 @@
 # About me
 
 
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently exploring and finding my interest
 
